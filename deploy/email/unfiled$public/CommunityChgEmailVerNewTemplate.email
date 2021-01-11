@@ -1,0 +1,9 @@
+Salve {!User.FirstName},
+
+Abbiamo ricevuto una richiesta di modifica dell'indirizzo email associato al nome utente {!User.Username}. Controlli che le seguenti modifiche siano corrette:
+ 
+Vecchio indirizzo email: {!ChgEmailVer.OldEmail}
+Nuovo indirizzo email: {!ChgEmailVer.NewEmail}
+
+Per completare la modifica dell'indirizzo email, acceda al link riportato sotto. Il link scade fra 72 ore. 
+{!ChgEmailVer.Url}

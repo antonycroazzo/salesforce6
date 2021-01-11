@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>antonycroazzo23@yahoo.com</contactEmail>
+    <label>Prova_progetto_sfdx</label>
+    <oauthConfig>
+        <callbackUrl>http://localhost:1717/OauthRedirect</callbackUrl>
+        <certificate>MIIDnTCCAoUCFA0FQaKetCKuPrBNajEZQeRSQnXQMA0GCSqGSIb3DQEBCwUAMIGKMQswCQYDVQQGEwJJVDEPMA0GA1UECAwGSXRhbGlhMQ8wDQYDVQQHDAZNaWxhbm8xEDAOBgNVBAoMB3ByaXZhdGExDzANBgNVBAsMBmRldm9wczEPMA0GA1UEAwwGYW50b255MSUwIwYJKoZIhvcNAQkBFhZhbnRvbnljcm9henpvQHlhaG9vLml0MB4XDTIwMDExNjE2NTkxM1oXDTIxMDExNTE2NTkxM1owgYoxCzAJBgNVBAYTAklUMQ8wDQYDVQQIDAZJdGFsaWExDzANBgNVBAcMBk1pbGFubzEQMA4GA1UECgwHcHJpdmF0YTEPMA0GA1UECwwGZGV2b3BzMQ8wDQYDVQQDDAZhbnRvbnkxJTAjBgkqhkiG9w0BCQEWFmFudG9ueWNyb2F6em9AeWFob28uaXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDGRwM7D6E8e42Fy8cYoQZ+voQ3fTl/5WoS6hGLHfjYhTohLtyrBcAh+Cv0rGhr0w+EF1fZ//hHskYj6ton3IsllRIWGgjgqvNwztKVlUNqowSnTqCUVffk6HICnBvCo4FrlIUR1Gcvkro0RQH/1ipMQc7bGL4ak3wt7Q1kkEi0TzXAhZ2SwGSvGFYrGuTaBQrtSy6FiQgQGuFREvSbhFaotQ5zO98n63Q0u7eLFJY2b23Pnx6H6IwT5qzr79U8DgS66phcp0rlsTwnKzgQEBiltQYE4CZy1nHBKBNzKHonDwjr6lgxkIdjYTIG9cohAR2RdW2blvWgssY2tSh+uu3JAgMBAAEwDQYJKoZIhvcNAQELBQADggEBAL/qle+VyuZe/pUQvy1wcNK6rNT1rR7JZb7zUwXtI9HgUn/2GAz957uLNInl4040S8gKMq4vOjFSAcX/Nd9h8MMV/VJOwYRCj6d9ouqsOCTd72g9Yeu7L7wgXDM8jCOC8o1k4AohAKNQLjleWZB1Q0jpNQGtAixCCNBLpF8qXyrWKDhunpWRkPDnY0ZR10GBiW3dVB+VGrYrqoCazHUru8kEE8EBM8uJUBCFoM0uscmFrQ66DT3ZLTkZApmykwQpXvdAkhi4+251VYihyOyLWCe789ckYDueVWI1MCyO7jMfck0gUEwVZJvA0/xqg+UVrJ+zGduumb5b0lZwidZUtLQ=</certificate>
+        <consumerKey>3MVG9fTLmJ60pJ5IYWr6vk7fXS6gXpe0GrBNM1XyNDI46JZMXpcaltstCVMCFdromjqzXsaR8cnZNOLgcZdCy</consumerKey>
+        <isAdminApproved>true</isAdminApproved>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+    <permissionSetName>sfdx_Jenkins</permissionSetName>
+</ConnectedApp>

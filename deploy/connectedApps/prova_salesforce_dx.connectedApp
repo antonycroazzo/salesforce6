@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>antonycroazzo@yahoo.it</contactEmail>
+    <contactPhone>3458336190</contactPhone>
+    <label>prova_salesforce_dx</label>
+    <oauthConfig>
+        <callbackUrl>https://login.salesforce.com/services/oauth2/success</callbackUrl>
+        <consumerKey>3MVG9fTLmJ60pJ5IYWr6vk7fXS59ySxU9rua6ebql2yCUPgpBnQ_eqQap5Mtk8r3ovHl.AjlsxsmnemM7mT6p</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+</ConnectedApp>
