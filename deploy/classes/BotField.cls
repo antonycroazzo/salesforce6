@@ -4,7 +4,7 @@ public class BotField {
     @AuraEnabled public String value { get;set; }
     @AuraEnabled public String linkURL { get;set; }
     
-    public BotField(String name, String value) {
+     public BotField(String name, String value) {
         this.name = name;
         this.value = value;
     }
