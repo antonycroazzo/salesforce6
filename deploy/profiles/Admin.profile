@@ -4,7 +4,7 @@
           <application>DreamHouse</application>
           <default>false</default>
         <visible>true</visible>
-       </applicationVisibilities>
+        </applicationVisibilities>
     <applicationVisibilities>
         <application>Energy_Consultations</application>
         <default>false</default>
